@@ -1,0 +1,24 @@
+* {
+    background-color: #E0D7FF;
+}
+
+.introduction {
+    text-align: center;
+}
+
+img {
+    width: 400px;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1 {
+    text-align: center;
+    text-decoration: underline;
+}
+
+h2 {
+    text-decoration: underline;
+}
